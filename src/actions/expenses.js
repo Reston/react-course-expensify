@@ -1,4 +1,4 @@
-import uuid from 'uuid';
+import React from 'react';
 import database from '../firebase/firebase';
 
 // ADD_EXPENSE
